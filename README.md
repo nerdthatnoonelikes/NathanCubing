@@ -1,7 +1,5 @@
 👋 Hey there im Nathan
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=NathanCubing&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
